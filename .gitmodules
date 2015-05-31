@@ -1,0 +1,6 @@
+[submodule "Thirdparty/MagicalRecords"]
+	path = Thirdparty/MagicalRecords
+	url = https://github.com/magicalpanda/MagicalRecord.git
+[submodule "Thirdparty2/SDWebImadge"]
+	path = Thirdparty2/SDWebImadge
+	url = https://github.com/rs/SDWebImage.git
